@@ -1,1 +1,1 @@
-# 2CSC 🤖
+# Git Community 🤖
